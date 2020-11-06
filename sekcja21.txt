@@ -3,3 +3,4 @@ naprawa błędu
 prosta 1
 prosta 2
 zmiana 2
+zmiana clone
