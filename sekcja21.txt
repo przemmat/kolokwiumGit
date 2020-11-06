@@ -1,2 +1,3 @@
 zmiana 1
 prosta 1
+prosta 2
