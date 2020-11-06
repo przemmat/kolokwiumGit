@@ -2,4 +2,4 @@ zmiana 1
 naprawa błędu
 prosta 1
 prosta 2
-
+zmiana 2
